@@ -1,3 +1,4 @@
+% Define todas as opcoes
 camiseta(amarela).
 camiseta(azul).
 camiseta(branca).
